@@ -8,6 +8,8 @@ print("************NETWORK MAPPER***************** \n")
 print("******************************************* \n")
 print('\n')
 
+print("\t\tV1.0")
+
 
 def inicio():
     print('Seja Bem vindo!')
